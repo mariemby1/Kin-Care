@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1793837006773,
+      "tag": "0000_whole_mimic",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1794264251181,
+      "tag": "0001_misty_jackal",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1794282019020,
+      "tag": "0002_robust_brood",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1794282908905,
+      "tag": "0003_magical_odin",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1794283432611,
+      "tag": "0004_blushing_sheva_callister",
+      "breakpoints": true
+    }
+  ]
+}

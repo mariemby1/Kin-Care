@@ -1,0 +1,1 @@
+ALTER TABLE `appointments` ADD `payment_amount_cents` integer;
